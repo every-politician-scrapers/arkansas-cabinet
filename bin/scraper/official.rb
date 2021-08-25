@@ -8,8 +8,8 @@ class MemberList
   class Member
     def name
       Name.new(
-        full: raw_name,
-        prefixes: %w[Dr Major General],
+        full:     raw_name,
+        prefixes: %w[Dr Major General]
       ).short
     end
 
