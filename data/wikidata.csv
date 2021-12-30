@@ -1,16 +1,16 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q108268189,Wes Ward,Wes Ward,male,,,https://governor.arkansas.gov/cabinet/,Q108268190,Secretary of the Department of Agriculture,Q108268189-B7D3C6E4-C5D5-4969-B224-1A2271563262
-Q108268215,Stacy Hurst,Stacy Hurst,female,,,https://governor.arkansas.gov/cabinet/,Q108268217,"Secretary of the Department of Parks, Heritage, and Tourism",Q108268215-510364B8-0B6B-4342-AE56-A0B08F192BAB
-Q108268306,Becky Keogh,Becky Keogh,female,,,https://governor.arkansas.gov/cabinet/,Q108268310,Secretary of the Department of Energy and Environment,Q108268306-234E7AB0-FB04-4189-9805-9CC09A44FDEF
-Q108268326,Solomon Graves,Solomon Graves,male,,,https://governor.arkansas.gov/cabinet/,Q108268328,Secretary of the Department of Corrections,Q108268326-5BA5349B-900D-41F0-BBA4-FE02ABC22D8D
-Q108268332,Johnny Key,Johnny Key,male,,,https://governor.arkansas.gov/cabinet/,Q108268335,Secretary of the Department of Education,Q108268332-ADD878B1-8ED4-482C-B9FC-9596BBC516AD
-Q108268340,Cindy Gillespie,Cindy Gillespie,female,,,https://governor.arkansas.gov/cabinet/,Q108268341,Secretary of the Department of Human Services,Q108268340-D2223645-3E7F-4CE9-9401-B1F7C1D0B824
-Q108268347,Larry Walther,Larry Walther,male,,,https://governor.arkansas.gov/cabinet/,Q108268350,Secretary of the Department of Finance and Administration,Q108268347-810C4653-2851-4CA9-B99E-E36D29A4D0E1
-Q108268353,José R. Romero,José R. Romero,male,,,https://governor.arkansas.gov/cabinet/,Q108268354,Secretary of the Department of Health,Q108268353-6C0F0631-CE21-4569-9716-E94A1EC53AC6
-Q108268357,Jami Cook,Jami Cook,female,,,https://governor.arkansas.gov/cabinet/,Q108268358,Secretary of the Department of Public Safety,Q108268357-A521A8B2-3DE9-44F2-93AA-56B2433EB420
-Q108268359,Nate Todd,Nate Todd,male,,,https://governor.arkansas.gov/cabinet/,Q108268360,Secretary of the Department of Veterans Affairs,Q108268359-9576B55B-EA11-40A4-B71F-17E95D429961
-Q108268361,Mike Preston,Mike Preston,male,,,https://governor.arkansas.gov/cabinet/,Q108268362,Secretary of the Department of Commerce,Q108268361-B4FAD57E-78C2-4642-9C18-5206CDA6E8DF
-Q108268364,Kendall W. Penn,Kendall W. Penn,male,,,https://governor.arkansas.gov/cabinet/,Q108268366,Secretary of the Department of the Military,Q108268364-CB604374-0890-43DE-B3CE-9BF0A78BF3B2
-Q108268368,Elizabeth Thomas Smith,Elizabeth Thomas Smith,female,,,https://governor.arkansas.gov/cabinet/,Q108268372,Secretary of the Department of Inspector General,Q108268368-61FA594C-C38C-4350-B114-ACA553667369
-Q108268377,Daryl Bassett,Daryl Bassett,male,,,https://governor.arkansas.gov/cabinet/,Q108268380,Secretary of the Department of Labor and Licensing,Q108268377-39CBC514-297B-4E60-BD5E-CDD2756A17CB
-Q108268383,Amy Fecher,Amy Fecher,female,,,https://governor.arkansas.gov/cabinet/,Q108268385,Secretary of the Department of Transformation and Shared Services,Q108268383-A1FEACE5-82F6-494D-BA14-0E288D7EA884
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q108268189,Wes Ward,Wes Ward,male,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268190,Secretary of the Department of Agriculture,2019-05-22,Q108268189-B7D3C6E4-C5D5-4969-B224-1A2271563262
+Q108268215,Stacy Hurst,Stacy Hurst,female,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268217,"Secretary of the Department of Parks, Heritage, and Tourism",2019-05-22,Q108268215-510364B8-0B6B-4342-AE56-A0B08F192BAB
+Q108268306,Becky Keogh,Becky Keogh,female,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268310,Secretary of the Department of Energy and Environment,2019-05-22,Q108268306-234E7AB0-FB04-4189-9805-9CC09A44FDEF
+Q108268326,Solomon Graves,Solomon Graves,male,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268328,Secretary of the Department of Corrections,2020-07-23,Q108268326-5BA5349B-900D-41F0-BBA4-FE02ABC22D8D
+Q108268332,Johnny Key,Johnny Key,male,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268335,Secretary of the Department of Education,2019-05-22,Q108268332-ADD878B1-8ED4-482C-B9FC-9596BBC516AD
+Q108268340,Cindy Gillespie,Cindy Gillespie,female,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268341,Secretary of the Department of Human Services,2019-05-22,Q108268340-D2223645-3E7F-4CE9-9401-B1F7C1D0B824
+Q108268347,Larry Walther,Larry Walther,male,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268350,Secretary of the Department of Finance and Administration,2019-05-22,Q108268347-810C4653-2851-4CA9-B99E-E36D29A4D0E1
+Q108268353,José R. Romero,José R. Romero,male,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268354,Secretary of the Department of Health,2020-08-28,Q108268353-6C0F0631-CE21-4569-9716-E94A1EC53AC6
+Q108268357,Jami Cook,Jami Cook,female,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268358,Secretary of the Department of Public Safety,2019-05-22,Q108268357-A521A8B2-3DE9-44F2-93AA-56B2433EB420
+Q108268359,Nate Todd,Nate Todd,male,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268360,Secretary of the Department of Veterans Affairs,2019-05-22,Q108268359-9576B55B-EA11-40A4-B71F-17E95D429961
+Q108268361,Mike Preston,Mike Preston,male,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268362,Secretary of the Department of Commerce,2019-05-22,Q108268361-B4FAD57E-78C2-4642-9C18-5206CDA6E8DF
+Q108268364,Kendall W. Penn,Kendall W. Penn,male,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268366,Secretary of the Department of the Military,2019-07-03,Q108268364-CB604374-0890-43DE-B3CE-9BF0A78BF3B2
+Q108268368,Elizabeth Thomas Smith,Elizabeth Thomas Smith,female,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268372,Secretary of the Department of Inspector General,2019-05-22,Q108268368-61FA594C-C38C-4350-B114-ACA553667369
+Q108268377,Daryl Bassett,Daryl Bassett,male,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268380,Secretary of the Department of Labor and Licensing,2019-05-22,Q108268377-39CBC514-297B-4E60-BD5E-CDD2756A17CB
+Q108268383,Amy Fecher,Amy Fecher,female,,,https://governor.arkansas.gov/cabinet/,2021-08-25,Q108268385,Secretary of the Department of Transformation and Shared Services,2019-05-22,Q108268383-A1FEACE5-82F6-494D-BA14-0E288D7EA884
