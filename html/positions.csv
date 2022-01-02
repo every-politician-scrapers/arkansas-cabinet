@@ -1,0 +1,23 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q1540336,Governor of Arkansas,Q81931,Q1612,Q1853515,Q777346,1836-09-13,,,,
+Q1853515,Lieutenant Governor of Arkansas,Q30,Q1612,,,1927,,,,Lieutenant Governor of Arkansas
+Q17089716,Secretary of State of Arkansas,Q30,Q1612,,,1836-09-16,,,,Secretary of State of Arkansas
+Q108268190,Secretary of the Department of Agriculture,Q30,Q1612,,,,,,,
+Q108268362,Secretary of the Department of Commerce,Q30,Q1612,,,,,,,
+Q108268328,Secretary of the Department of Corrections,Q30,Q1612,,,,,,,
+Q108268335,Secretary of the Department of Education,Q30,Q1612,,,,,,,
+Q108268310,Secretary of the Department of Energy and Environment,Q30,Q1612,,,,,,,
+Q108268350,Secretary of the Department of Finance and Administration,Q30,Q1612,,,,,,,
+Q108268354,Secretary of the Department of Health,Q30,Q1612,,,,,,,
+Q108268341,Secretary of the Department of Human Services,Q30,Q1612,,,,,,,
+Q108268372,Secretary of the Department of Inspector General,Q30,Q1612,,,,,,,
+Q108268380,Secretary of the Department of Labor and Licensing,Q30,Q1612,,,,,,,
+Q108268217,"Secretary of the Department of Parks, Heritage, and Tourism",Q30,Q1612,,,,,,,
+Q108268358,Secretary of the Department of Public Safety,Q30,Q1612,,,,,,,
+Q108268366,Secretary of the Department of the Military,Q30,Q1612,,,,,,,
+Q108268385,Secretary of the Department of Transformation and Shared Services,Q30,Q1612,,,,,,,
+Q108268360,Secretary of the Department of Veterans Affairs,Q30,Q1612,,,,,,,
+Q4791868,Arkansas State Auditor,Q30,Q1612,,,1836,,,,Arkansas State Auditor
+Q4112147,Attorney General of Arkansas,Q30,Q1612,,,1843-02-03,,,,Arkansas Attorney General
+Q97971214,President of the Arkansas Senate,Q30,Q1612,,,1836-09-12,1926-04-12,,,
+Q91581162,Speaker of the Arkansas House of Representatives,Q30,Q1612,,Q55617440,1836-09-12,,,,
