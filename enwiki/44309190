@@ -1,0 +1,192 @@
+{
+  "title": "Leslie Rutledge",
+  "pageID": 44309190,
+  "categories": [
+    "1976 births",
+    "20th-century American lawyers",
+    "21st-century American lawyers",
+    "21st-century American politicians",
+    "21st-century American women politicians",
+    "Arkansas Attorneys General",
+    "Arkansas lawyers",
+    "Arkansas Republicans",
+    "Living people",
+    "People from Batesville, Arkansas",
+    "University of Arkansas alumni",
+    "William H. Bowen School of Law alumni",
+    "Women in Arkansas politics",
+    "20th-century American women lawyers",
+    "21st-century American women lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leslie Carol Rutledge (born June 9, 1976) is an American attorney and politician from the state of Arkansas.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arkansas"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Leslie Carol Rutledge"
+                ]
+              }
+            },
+            {
+              "text": "A Republican, she is the 56th attorney general of Arkansas, a position Rutledge has held since January 13, 2015.",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "text": "attorney general of Arkansas",
+                  "type": "internal",
+                  "page": "Arkansas Attorney General"
+                }
+              ]
+            },
+            {
+              "text": "She is the first Republican and woman to hold the position."
+            },
+            {
+              "text": "In 2020, she announced her candidacy for the 2022 Arkansas gubernatorial election.",
+              "links": [
+                {
+                  "text": "2022 Arkansas gubernatorial election",
+                  "type": "internal",
+                  "page": "2022 Arkansas gubernatorial election"
+                }
+              ]
+            },
+            {
+              "text": "In November 2021, she switched to the race for lieutanant governor."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "American politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2014",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1976",
+          "month": "6",
+          "day": "9",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Boyce Johnson",
+          "from": "2015",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Leslie Rutledge"
+          },
+          "image": {
+            "text": "Leslie Rutledge (25475720912) (1).jpg"
+          },
+          "office": {
+            "text": "56th Attorney General of Arkansas",
+            "links": [
+              {
+                "text": "Attorney General of Arkansas",
+                "type": "internal",
+                "page": "Arkansas Attorney General"
+              }
+            ]
+          },
+          "governor": {
+            "text": "Asa Hutchinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Asa Hutchinson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 13, 2015"
+          },
+          "predecessor": {
+            "text": "Dustin McDaniel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dustin McDaniel"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 9, 1976"
+          },
+          "birth_place": {
+            "text": "Batesville, Arkansas, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Batesville, Arkansas"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Boyce Johnson (m. 2015)"
+          },
+          "children": {
+            "text": "1",
+            "number": 1
+          },
+          "education": {
+            "text": "University of Arkansas (BA)\nUniversity of Arkansas at Little Rock (JD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Arkansas"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "University of Arkansas at Little Rock"
+              },
+              {
+                "text": "JD",
+                "type": "internal",
+                "page": "Juris Doctor"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

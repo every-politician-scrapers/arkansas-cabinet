@@ -1,0 +1,197 @@
+{
+  "title": "John Thurston (politician)",
+  "pageID": 47950447,
+  "categories": [
+    "1972 births",
+    "Arkansas Republicans",
+    "Christian clergy",
+    "Living people",
+    "People from Saline County, Arkansas",
+    "People from Sheridan, Arkansas",
+    "Politicians from Little Rock, Arkansas",
+    "Secretaries of State of Arkansas",
+    "Sheridan High School (Arkansas) alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "John Manuel Thurston (born December 27, 1972) is the current Secretary of State of Arkansas; elected in November 2018, he has served in the position since January 2019.",
+              "formatting": {
+                "bold": [
+                  "John Manuel Thurston"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He previously served as Arkansas Commissioner of State Lands.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arkansas Commissioner of State Lands"
+                }
+              ]
+            },
+            {
+              "text": "A Republican, he was first elected to that position in November 2010, took office in January 2011, and was reelected in November 2014 to a second term.",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "American politician from Arkansas",
+          "template": "short description"
+        },
+        {
+          "year": "1972",
+          "month": "12",
+          "day": "27",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "John Thurston"
+          },
+          "office": {
+            "text": "34th Secretary of State of Arkansas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary of State of Arkansas"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 15, 2019"
+          },
+          "governor": {
+            "text": "Asa Hutchinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Asa Hutchinson"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Mark Martin",
+            "links": [
+              {
+                "text": "Mark Martin",
+                "type": "internal",
+                "page": "Mark Martin (politician)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Land Commissioner of Arkansas",
+            "links": [
+              {
+                "text": "Land Commissioner of Arkansas",
+                "type": "internal",
+                "page": "Arkansas Commissioner of State Lands"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 11, 2011"
+          },
+          "term_end1": {
+            "text": "January 15, 2019"
+          },
+          "governor1": {
+            "text": "Mike Beebe Asa Hutchinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mike Beebe"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Mark Wilcox",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Wilcox"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Tommy Land",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tommy Land"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "John Manuel Thurston"
+          },
+          "birth_date": {
+            "text": "December 27, 1972"
+          },
+          "birth_place": {
+            "text": "Little Rock, Arkansas, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Little Rock, Arkansas"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Joanna Thurston"
+          },
+          "children": {
+            "text": "5",
+            "number": 5
+          },
+          "education": {
+            "text": "Henderson State University\nAgape College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Henderson State University"
+              },
+              {
+                "text": "Agape College",
+                "type": "internal",
+                "page": "Agape College (Little Rock, Arkansas)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
