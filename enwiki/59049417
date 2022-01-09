@@ -1,0 +1,132 @@
+{
+  "title": "Tommy Land",
+  "pageID": 59049417,
+  "categories": [
+    "1955 births",
+    "2016 United States presidential electors",
+    "21st-century American politicians",
+    "Arkansas Republicans",
+    "Living people",
+    "People from Haines City, Florida",
+    "People from Heber Springs, Arkansas"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tommy Land (born August 18, 1955) is an Arkansas small business owner, real estate agent, and politician.",
+              "formatting": {
+                "bold": [
+                  "Tommy Land"
+                ]
+              }
+            },
+            {
+              "text": "A Republican, he was elected on November 6, 2018, as the next Arkansas Commissioner of State Lands, and assumed office in January 2019.",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Arkansas Commissioner of State Lands"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Arkansas politician",
+          "template": "short description"
+        },
+        {
+          "year": "1955",
+          "month": "8",
+          "day": "18",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Judy Land",
+          "from": "1977",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tommy Land"
+          },
+          "office": {
+            "text": "Land Commissioner of Arkansas",
+            "links": [
+              {
+                "text": "Land Commissioner of Arkansas",
+                "type": "internal",
+                "page": "Arkansas Commissioner of State Lands"
+              }
+            ]
+          },
+          "governor": {
+            "text": "Asa Hutchinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Asa Hutchinson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 15, 2019"
+          },
+          "predecessor": {
+            "text": "John Thurston",
+            "links": [
+              {
+                "text": "John Thurston",
+                "type": "internal",
+                "page": "John Thurston (politician)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 18, 1955"
+          },
+          "birth_place": {
+            "text": "Haines City, Florida, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Haines City, Florida"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Judy Land (m. 1977)"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          }
+        }
+      ]
+    }
+  ]
+}
