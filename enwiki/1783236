@@ -108,6 +108,10 @@
       ],
       "templates": [
         {
+          "description": "American politician",
+          "template": "short description"
+        },
+        {
           "list": [
             "the Arkansas politician",
             "the Wyoming murder victim",
