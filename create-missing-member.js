@@ -9,7 +9,7 @@ module.exports = (label) => {
       en: label,
     },
     descriptions: {
-      en: `${meta.jurisdiction.name} State Secretary`,
+      en: `politician in ${meta.jurisdiction.name}`,
     },
     claims: {
       P31: { value: 'Q5' }, // human
