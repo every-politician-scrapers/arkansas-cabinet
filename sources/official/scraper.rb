@@ -14,6 +14,8 @@ class MemberList
     end
 
     def position
+      return department if department.include? 'Secretary'
+
       "Secretary of the #{department}"
     end
 
