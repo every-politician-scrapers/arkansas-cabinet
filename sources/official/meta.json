@@ -1,0 +1,24 @@
+{
+    "jurisdiction": {
+      "name": "Arksansas",
+      "id": "Q1612"
+    },
+    "country": {
+      "name": "United States of America",
+      "id": "Q30"
+    },
+    "cabinet": {
+      "id": "Q108267796",
+      "start": "2019-05-22",
+      "parent": "Q104869990"
+    },
+    "source": {
+        "url":   "https://governor.arkansas.gov/cabinet/",
+        "title": "Cabinet Secretaries  : Arkansas Governor Asa Hutchinson",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/arkansas-cabinet"
+}
