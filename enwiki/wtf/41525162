@@ -73,43 +73,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "From 2013 to 2015, Lea represented House District 71, which includes Pope County.",
-              "links": [
-                {
-                  "text": "Pope County",
-                  "type": "internal",
-                  "page": "Pope County, Arkansas"
-                }
-              ]
-            },
-            {
-              "text": "From 2009 to 2013, she represented House District 68, a position formerly held by the term-limited Republican, Robert E. Dale of Dover, also in Pope County.",
-              "links": [
-                {
-                  "text": "term-limited",
-                  "type": "internal",
-                  "page": "Term limits in the United States"
-                },
-                {
-                  "text": "Robert E. Dale",
-                  "type": "internal",
-                  "page": "Robert Dale (politician)"
-                },
-                {
-                  "text": "Dover",
-                  "type": "internal",
-                  "page": "Dover, Arkansas"
-                }
-              ]
-            },
-            {
-              "text": "She was fourth in seniority in the state House."
-            }
-          ]
         }
       ],
       "templates": [
@@ -280,79 +243,7 @@
           "access-date": "January 1, 2014",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Background",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Reared in a military family, Lea has lived in New Hampshire, Hawaii, and Newbury Park in Ventura County, California.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "New Hampshire"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hawaii"
-                },
-                {
-                  "text": "Newbury Park",
-                  "type": "internal",
-                  "page": "Newbury Park, California"
-                },
-                {
-                  "text": "Ventura County",
-                  "type": "internal",
-                  "page": "Ventura County, California"
-                },
-                {
-                  "type": "internal",
-                  "page": "California"
-                }
-              ]
-            },
-            {
-              "text": "She holds a Bachelor of Science degree in Emergency Administration and Management from Arkansas Tech University in Russellville.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bachelor of Science"
-                },
-                {
-                  "type": "internal",
-                  "page": "Arkansas Tech University"
-                }
-              ]
-            },
-            {
-              "text": "She and her husband, Phillip (born 1956), have three children, Kevin Joseph, Andrew James, and Mary Elizabeth Lea."
-            },
-            {
-              "text": "Phillp and Andrea Lea are members, and she is the recording secretary, of the Central Presbyterian Church of Russellville.",
-              "links": [
-                {
-                  "text": "Presbyterian Church",
-                  "type": "internal",
-                  "page": "Presbyterian Church in the United States"
-                }
-              ]
-            }
-          ]
         },
-        {
-          "sentences": [
-            {
-              "text": "Lea is a sailing and biking enthusiast."
-            }
-          ]
-        }
-      ],
-      "references": [
         {
           "url": "http://www.arkansashouse.org/member/235/",
           "title": "Andrea Lea, R-71",
@@ -367,50 +258,13 @@
       ]
     },
     {
+      "title": "Background",
+      "depth": 0
+    },
+    {
       "title": "Early political life and state legislature",
       "depth": 0,
       "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Prior to her legislative service, Lea was a member of the Russellville City Council and then a justice of the peace on the Pope County Quorum Court, equivalent to county commission in other states.",
-              "links": [
-                {
-                  "text": "justice of the peace",
-                  "type": "internal",
-                  "page": "justice of the peace"
-                },
-                {
-                  "text": "county commission",
-                  "type": "internal",
-                  "page": "county commission"
-                }
-              ]
-            },
-            {
-              "text": "In 2008, she was elected in House District 68 over Democrat Thomas Roy Akin, also of Russellville, 5,681 (53.1 percent) to 4,634 (43.3 percent)."
-            },
-            {
-              "text": "Mary Elaine Boley of the Green Party in Russellville held the remaining 394 ballots (3.7 percent).",
-              "links": [
-                {
-                  "text": "Green Party",
-                  "type": "internal",
-                  "page": "Green Party (United States)"
-                }
-              ]
-            },
-            {
-              "text": "The seat was vacated by the Republican Michael Lamoureux of Russellville.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Michael Lamoureux"
-                }
-              ]
-            }
-          ]
-        },
         {
           "sentences": [
             {
@@ -427,19 +281,6 @@
                   "page": "Tommy Wren"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Lea was a member of the Arkansas Legislative Council."
-            },
-            {
-              "text": "In her last term in office, she chaired the State Agencies and Governmental Affairs Committee."
-            },
-            {
-              "text": "She was also assigned to the Energy, Management, Rules, and Revenue & Taxation committees."
             }
           ]
         },
@@ -501,159 +342,7 @@
           "website": "www.alec.org",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Legislation",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In 2013, Lea co-sponsored legislation to require photo identification for casting a ballot in Arkansas and to ban abortion after twenty weeks of gestation.",
-              "links": [
-                {
-                  "text": "require photo identification for casting a ballot",
-                  "type": "internal",
-                  "page": "Voter ID laws in the United States",
-                  "anchor": "Push for photo ID requirements"
-                },
-                {
-                  "text": "abortion",
-                  "type": "internal",
-                  "page": "abortion"
-                }
-              ]
-            },
-            {
-              "text": "She voted to override the vetoes of Democratic Governor Mike Beebe to enact both measures.",
-              "links": [
-                {
-                  "text": "override",
-                  "type": "internal",
-                  "page": "Veto override"
-                },
-                {
-                  "text": "vetoes",
-                  "type": "internal",
-                  "page": "veto"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mike Beebe"
-                }
-              ]
-            },
-            {
-              "text": "She supported or co-sponsored related legislation to ban abortions as soon as electrical activity is detected in cardiac cells, to forbid the inclusion of abortion in the state insurance exchange, and to make the death of a fetus a felony in certain cases.",
-              "links": [
-                {
-                  "text": "felony",
-                  "type": "internal",
-                  "page": "felony"
-                }
-              ]
-            },
-            {
-              "text": "She co-sponsored a spending cap in the state budget, but the measure failed to gain approval by two votes in the House."
-            },
-            {
-              "text": "She also co-sponsored amending state income tax rates.",
-              "links": [
-                {
-                  "text": "state income tax",
-                  "type": "internal",
-                  "page": "state income tax"
-                }
-              ]
-            },
-            {
-              "text": "Lea voted to allow university officials to carry concealed weapons on college campuses.",
-              "links": [
-                {
-                  "text": "carry concealed weapons",
-                  "type": "internal",
-                  "page": "Concealed carry in the United States"
-                }
-              ]
-            },
-            {
-              "text": "Similarly, she co-sponsored legislation to permit concealed weapons in religious institutions."
-            },
-            {
-              "text": "She voted to prohibit the governor from regulating firearms in an emergency."
-            },
-            {
-              "text": "She also supported lowering the application fee for obtaining a concealed carry permit.",
-              "links": [
-                {
-                  "text": "concealed carry",
-                  "type": "internal",
-                  "page": "concealed carry"
-                }
-              ]
-            },
-            {
-              "text": "Lea supported legislation to make the office of prosecuting attorney in Arkansas nonpartisan.",
-              "links": [
-                {
-                  "text": "nonpartisan",
-                  "type": "internal",
-                  "page": "nonpartisan"
-                }
-              ]
-            },
-            {
-              "text": "She supported the bill, signed by Governor Beebe, to permit the sale of up to five hundred gallons per month of unpasteurized whole milk directly from the farm to consumers.",
-              "links": [
-                {
-                  "text": "unpasteurized",
-                  "type": "internal",
-                  "page": "Pasteurization"
-                }
-              ]
-            },
-            {
-              "text": "She voted against a defeated proposal to prohibit the closure of schools based on declining enrollments over a two-year period."
-            }
-          ]
         },
-        {
-          "sentences": [
-            {
-              "text": "In 2011, Lea supported a dress code and curriculum standards for biblical instruction in public schools."
-            },
-            {
-              "text": "She supported the Capital Gains Reduction Act and a tax reduction on manufacturers' utilities."
-            },
-            {
-              "text": "She voted to prohibit driver's license tests being administered in any language other than English."
-            },
-            {
-              "text": "She opposed the prohibition of cell phone use in school zones, but the measure passed, 53–41.",
-              "links": [
-                {
-                  "text": "cell phone",
-                  "type": "internal",
-                  "page": "cell phone"
-                }
-              ]
-            },
-            {
-              "text": "She supported the congressional redistricting bill, which passed 61–20.",
-              "links": [
-                {
-                  "text": "redistricting",
-                  "type": "internal",
-                  "page": "redistricting"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
         {
           "url": "http://votesmart.org/candidate/key-votes/103792/andrea-lea",
           "title": "Andrea Lea's Voting Records",
@@ -663,6 +352,10 @@
           "type": "web"
         }
       ]
+    },
+    {
+      "title": "Legislation",
+      "depth": 1
     },
     {
       "title": "State Auditor",

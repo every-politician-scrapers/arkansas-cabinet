@@ -163,7 +163,7 @@
             "number": 1
           },
           "education": {
-            "text": "University of Arkansas (BA)\nUniversity of Arkansas at Little Rock (JD)",
+            "text": "University of Arkansas (BA, JD)",
             "links": [
               {
                 "type": "internal",
@@ -173,10 +173,6 @@
                 "text": "BA",
                 "type": "internal",
                 "page": "Bachelor of Arts"
-              },
-              {
-                "type": "internal",
-                "page": "University of Arkansas at Little Rock"
               },
               {
                 "text": "JD",
