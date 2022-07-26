@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Arkansas State Auditor"
+      ],
+      "stated_as": "Auditor of Arkansas"
+    },
+    "P580": "2009-01",
+    "P1365": {
+      "links": [
+        "Michael Lamoureux"
+      ],
+      "stated_as": "Michael Lamoureux"
+    },
+    "P582": "2013-01",
+    "P1366": {
+      "links": [
+        "Robert Dale (politician)"
+      ],
+      "stated_as": "Robert Dale"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Arkansas State Auditor"
+      ],
+      "stated_as": "Auditor of Arkansas"
+    },
+    "P580": "2013-01",
+    "P1365": {
+      "links": [
+        "Tommy Wren"
+      ],
+      "stated_as": "Tommy Wren"
+    },
+    "P582": "2015-01-13",
+    "P1366": {
+      "links": [
+        "Kenneth Henderson"
+      ],
+      "stated_as": "Kenneth Henderson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Arkansas State Auditor"
+      ],
+      "stated_as": "Auditor of Arkansas"
+    },
+    "P580": "2015-01-13",
+    "P1365": {
+      "links": [
+        "Charlie Daniels (politician)"
+      ],
+      "stated_as": "Charlie Daniels"
+    }
+  }
+]

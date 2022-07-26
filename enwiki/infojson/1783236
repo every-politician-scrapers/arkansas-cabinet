@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of speakers of the Arkansas House of Representatives"
+      ],
+      "stated_as": "Speaker of the Arkansas House of Representatives"
+    },
+    "P580": "2011-01-01",
+    "P1365": {
+      "links": [
+        "John Lowery (politician)"
+      ],
+      "stated_as": "John Lowery"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of speakers of the Arkansas House of Representatives"
+      ],
+      "stated_as": "Speaker of the Arkansas House of Representatives"
+    },
+    "P580": "2018-06-15",
+    "P1365": {
+      "links": [
+        "Jeremy Gillam"
+      ],
+      "stated_as": "Jeremy Gillam"
+    }
+  }
+]
