@@ -157,7 +157,13 @@
             ]
           },
           "successor1": {
-            "text": "Kenneth Henderson"
+            "text": "Kenneth Henderson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kenneth Henderson"
+              }
+            ]
           },
           "state_house2": {
             "text": "Arkansas"
