@@ -1,23 +1,23 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-Governor,Asa Hutchinson,Q720121,2015-01-13,male,1950-12-03,,Asa Hutchinson crop.jpg,Asa Hutchinson
-Lieutenant Governor,Timothy Griffin,Q2435200,2015,male,1968-08-21,,Rep Tim Griffin Official Photo.jpg,Tim Griffin
-Secretary of State,John Thurston,Q21258911,2019-01-15,male,1973,,,John Thurston (politician)
-Secretary of the Department of Agriculture,Wes Ward,Q108268189,2019-05-22,male,,,,
-Secretary of the Department of Commerce,Mike Preston,Q108268361,2019-05-22,male,,,,
-Secretary of the Department of Corrections,Solomon Graves,Q108268326,2020-07-23,male,,,,
-Secretary of the Department of Education,Johnny Key,Q108268332,2019-05-22,male,,,,
-Secretary of the Department of Energy and Environment,Becky Keogh,Q108268306,2019-05-22,female,,,,
-Secretary of the Department of Finance and Administration,Larry Walther,Q108268347,2019-05-22,male,,,,
-Secretary of the Department of Health,Renee Mallory,Q111976501,2022-05-05,,,,,
-Secretary of the Department of Human Services,Cindy Gillespie,Q108268340,2019-05-22,female,,,,
-Secretary of the Department of Inspector General,Elizabeth Thomas Smith,Q108268368,2019-05-22,female,,,,
-Secretary of the Department of Labor and Licensing,Daryl Bassett,Q108268377,2019-05-22,male,,,,
-"Secretary of the Department of Parks, Heritage, and Tourism",Stacy Hurst,Q108268215,2019-05-22,female,,,,
-Secretary of the Department of Public Safety,Jami Cook,Q108268357,2019-05-22,female,,,,
-Secretary of the Department of the Military,Kendall W. Penn,Q108268364,2019-07-03,male,,,,
-Secretary of the Department of Transformation and Shared Services,Mitch Rouse,Q112911945,2022-06-20,male,,,,
-Secretary of the Department of Veterans Affairs,Nate Todd,Q108268359,2019-05-22,male,,,,
-State Auditor,Andrea Lea,Q16189363,2015-01-13,female,1957,,,Andrea Lea
-Attorney General,Leslie Rutledge,Q18631237,2015-01-13,female,1976-06-09,,Leslie Rutledge (25475720912) (1).jpg,Leslie Rutledge
-Commissioner of State Lands,Tommy Land,Q58755305,2019-01-15,male,1955-08-18,,,Tommy Land
-Speaker of the House of Representatives,Matthew Shepherd,Q6791218,2018-06-15,male,1976-02-21,,,Matthew Shepherd
+position,person,personID,start,end
+Governor,Asa Hutchinson,Q720121,2015-01-13,
+Lieutenant Governor,Timothy Griffin,Q2435200,2015,
+Secretary of State,John Thurston,Q21258911,2019-01-15,
+Secretary of the Department of Agriculture,Wes Ward,Q108268189,2019-05-22,
+Secretary of the Department of Commerce,Mike Preston,Q108268361,2019-05-22,
+Secretary of the Department of Corrections,Solomon Graves,Q108268326,2020-07-23,
+Secretary of the Department of Education,Johnny Key,Q108268332,2019-05-22,
+Secretary of the Department of Energy and Environment,Becky Keogh,Q108268306,2019-05-22,
+Secretary of the Department of Finance and Administration,Larry Walther,Q108268347,2019-05-22,
+Secretary of the Department of Health,Renee Mallory,Q111976501,2022-05-05,
+Secretary of the Department of Human Services,Cindy Gillespie,Q108268340,2019-05-22,
+Secretary of the Department of Inspector General,Elizabeth Thomas Smith,Q108268368,2019-05-22,
+Secretary of the Department of Labor and Licensing,Daryl Bassett,Q108268377,2019-05-22,
+"Secretary of the Department of Parks, Heritage, and Tourism",Stacy Hurst,Q108268215,2019-05-22,
+Secretary of the Department of Public Safety,Jami Cook,Q108268357,2019-05-22,
+Secretary of the Department of the Military,Kendall W. Penn,Q108268364,2019-07-03,
+Secretary of the Department of Transformation and Shared Services,Mitch Rouse,Q112911945,2022-06-20,
+Secretary of the Department of Veterans Affairs,Nate Todd,Q108268359,2019-05-22,
+State Auditor,Andrea Lea,Q16189363,2015-01-13,
+Attorney General,Leslie Rutledge,Q18631237,2015-01-13,
+Commissioner of State Lands,Tommy Land,Q58755305,2019-01-15,
+Speaker of the House of Representatives,Matthew Shepherd,Q6791218,2018-06-15,
